@@ -1,0 +1,24 @@
+       .data {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .data td, .data th {
+            border: 1px solid rgb(0, 0, 0);
+            padding-left : 2px;
+
+        }
+
+        .data tr:hover {
+            background-color: rgb(152, 137, 216);
+        }
+
+        .data th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #3183af;
+            color: white;
+            font-size: 1.5rem;
+        }
+        
