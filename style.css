@@ -4,16 +4,14 @@
         }
 
         .data td, .data th {
-            border: 1px solid #ddd;
+            border: 1px solid rgb(0, 0, 0);
             padding: 8px;
         }
 
-        .data tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
+    
 
         .data tr:hover {
-            background-color: #ddd;
+            background-color: rgb(152, 137, 216);
         }
 
         .data th {
